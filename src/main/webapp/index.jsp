@@ -13,7 +13,7 @@
 <main>
     <article>
         <h1>Sweet Holidays</h1>
-        <p>We <em>know</em> how busy you are. Do you actually know? We <em>know</em> how important your holiday is for you.
+        <p>We <em>know</em> how busy you ar. Do you actually know? We <em>know</em> how important your holiday is for you.
             That's why we want to help you in making the right choice.</p>
         <p>This site offers you information about countries.
             To make sure you choose your ideal destination.</p>
